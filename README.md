@@ -1,6 +1,6 @@
 # Version 1.0 - magic-device-tool
 
-![alt text](https://raw.githubusercontent.com/MariusQuabeck/magic-device-tool/master/mdt.png "magic-device-tool logo")
+<p align="center"><a href=><img src="/master/mdt.png" alt-text:"magic-device-tool logo"></a></p>
 
 A simple and feature full tool to handle installing/replacing Operating Systems (Ubuntu Phone / Ubuntu Touch, Android, LineageOS, Maru OS, Sailfish OS, and Phoenix OS) on your mobile devices.
 
