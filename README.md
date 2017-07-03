@@ -131,23 +131,23 @@ FAQ
 
 TODO
 ------
-- Add Nexus 7 2012 grouper & tilapia
-- Rename legacy to stable (UBports)
-- Fix Lineage OS download links!!
-- Add Maru OS for flo
-- Add Plasma Mobile
-- Add Maru OS for Nexus 7 2013 WiFi (flo)
-- Add Fairphone OS, Fairphone Open & Sailfish for FP2
-- Add LineageOS Extras
-- Fix CM links in Sailfish install
-- Switch CM to Lineage OS
-- Add support to install F-Droid
-- Add option "add udev rule"
-- Give Aaron access to README
-- Add Plasma Mobile
-- Improve the Snap
-- Add feature to flash SD cards with Raspian, Ubuntu,...
-- Add revision option
+ - [ ] Add Nexus 7 2012 grouper & tilapia
+ - [ ] Rename legacy to stable (UBports)
+ - [ ] Fix Lineage OS download links!!
+ - [ ] Add Maru OS for flo
+ - [ ] Add Plasma Mobile
+ - [ ] Add Maru OS for Nexus 7 2013 WiFi (flo)
+ - [ ] Add Fairphone OS, Fairphone Open & Sailfish for FP2
+ - [ ] Add LineageOS Extras
+ - [ ] Fix CM links in Sailfish install
+ - [ ] Switch CM to Lineage OS
+ - [ ] Add support to install F-Droid
+ - [ ] Add option "add udev rule"
+ - [ ] Give Aaron access to README
+ - [ ] Add Plasma Mobile
+ - [ ] Improve the Snap
+ - [ ] Add feature to flash SD cards with Raspian, Ubuntu,...
+ - [ ] Add revision option
 
 
 Special thanks to
